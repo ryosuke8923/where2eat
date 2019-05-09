@@ -22,4 +22,6 @@ test:
 
 production:
   <<: *default
-  database: db/production.sqlite3
+  database: postgresql-convex-89149
+  username: 亮将 齊藤
+  password: 0903RmR!
