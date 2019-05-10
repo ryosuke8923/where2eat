@@ -22,6 +22,6 @@ test:
 
 production:
   <<: *default
-  database: postgresql-convex-89149
+  database: postgresql-slippery-21738
   username: 亮将 齊藤
   password: 0903RmR!
